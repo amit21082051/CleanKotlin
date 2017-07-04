@@ -16,13 +16,13 @@ Goals:
 
 # What libraries i use to do that?
 
-Presentation | Domain | Data 
-
-RxJava | RxJava | RxJava
-RxAndroid | | RxAdapter
-Material Snackbar | | OkHttp
-Material Dialogs | | Retrofit
-Glide | | Gson
+| Presentation |     Domain   |     Data     |
+| ------------ | ------------ | ------------ |
+| RxJava | RxJava | RxJava |
+| RxAndroid | | RxAdapter |
+| Material Snackbar | | OkHttp |
+| Material Dialogs | | Retrofit |
+| Glide | | Gson |
       
 # References
 
