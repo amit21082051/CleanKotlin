@@ -10,11 +10,15 @@ Goals:
 
 # What the hell is Clean Architecture?
 
+With this scheme i try to show the components needed in differents layers.
+
 <p align="center">
 <img src="https://github.com/elabi3/CleanArchitecture/blob/master/architecture-layers.png" height="600">
 </p>
 
 # What libraries i use to do that?
+
+Some libraries are necessary to simplify the development of an app based on this architecture.
 
 | Presentation |     Domain   |     Data     |
 | ------------ | ------------ | ------------ |
