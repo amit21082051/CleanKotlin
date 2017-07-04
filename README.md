@@ -10,6 +10,7 @@ Goals:
 
 # What the hell is Clean Architecture?
 
+<img src="https://github.com/elabi3/CleanArchitecture/blob/master/architecture-layers.png">
 
 # What libraries i use to do that?
 
