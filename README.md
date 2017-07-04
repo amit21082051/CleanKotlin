@@ -16,6 +16,8 @@ Goals:
 
 # What libraries i use to do that?
 
+<p align="center">
+
 | Presentation |     Domain   |     Data     |
 | ------------ | ------------ | ------------ |
 | RxJava | RxJava | RxJava |
@@ -23,6 +25,8 @@ Goals:
 | Material Snackbar | | OkHttp |
 | Material Dialogs | | Retrofit |
 | Glide | | Gson |
+
+</p>
       
 # References
 
