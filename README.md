@@ -16,7 +16,7 @@ Goals:
 
 # What libraries i use to do that?
 
-<p align="center">
+<center>
 
 | Presentation |     Domain   |     Data     |
 | ------------ | ------------ | ------------ |
@@ -26,13 +26,13 @@ Goals:
 | Material Dialogs | | Retrofit |
 | Glide | | Gson |
 
-</p>
+</center>
       
 # References
 
 To develop this example app i read multiple articles that inspire to me:
 
-  - The clean architecture https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
+  - [The clean architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
   - Architecting Android...The clean way? https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/
   - Architecting Android...The evolution https://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
   - Architecture Components https://developer.android.com/topic/libraries/architecture/guide.html 
