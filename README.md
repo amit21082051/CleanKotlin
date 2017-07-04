@@ -1,4 +1,4 @@
-# Clean Architecture
+# Clean Kotlin
 
 Goals:
 
@@ -16,26 +16,13 @@ Goals:
 
 # What libraries i use to do that?
 
-  // Presentation
-     
-     - Material Snackbar
-     - Material Dialogs
-     - Glide
-     - RxAndroid
-     - RxJava
+Presentation | Domain | Data 
 
-  // Domain
-     
-     - RxJava
-     
-  // Data
-     
-     - OkHttp
-     - Retrofit
-     - Gson
-     - GsonConverter
-     - RxAdapter
-     - RxJava
+RxJava | RxJava | RxJava
+RxAndroid | | RxAdapter
+Material Snackbar | | OkHttp
+Material Dialogs | | Retrofit
+Glide | | Gson
       
 # References
 
