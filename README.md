@@ -10,7 +10,7 @@ Goals:
 
 # What the hell is Clean Architecture?
 
-<img src="https://github.com/elabi3/CleanArchitecture/blob/master/architecture-layers.png">
+<img src="https://github.com/elabi3/CleanArchitecture/blob/master/architecture-layers.png" height="500">
 
 # What libraries i use to do that?
 
