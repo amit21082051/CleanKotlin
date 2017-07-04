@@ -11,8 +11,29 @@ Goals:
 # What the hell is Clean Architecture?
 
 
+# What libraries i use to do that?
 
+  // Presentation
+     
+     - Material Snackbar
+     - Material Dialogs
+     - Glide
+     - RxAndroid
+     - RxJava
 
+  // Domain
+     
+     - RxJava
+     
+  // Data
+     
+     - OkHttp
+     - Retrofit
+     - Gson
+     - GsonConverter
+     - RxAdapter
+     - RxJava
+      
 # References
 
 To develop this example app i read multiple articles that inspire to me:
